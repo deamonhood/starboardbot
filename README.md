@@ -27,7 +27,7 @@ Ardından, konsolda görünen botunuzun davet bağlantısını kullanarak botu s
 kanal-ayarla <kanal> [gerekli yıldız sayısı]
 ```
 
-Artık, sunucunuzdaki herhangi bir mesaj ayarladığınız yıldız sayısına eşit veya ondan daha fazla yıldız tepkisi alırsa, bu mesaj belirttiğiniz kanala gönderilecektir. 🎉
+Artık, sunucunuzdaki herhangi bir mesaj ayarladığınız yıldız sayısına eşit veya ondan daha fazla yıldız tepkisi alırsa, bu mesaj ayarladığınız kanala gönderilecektir. 🎉
 
 ## bazı soruların cevapları
 
